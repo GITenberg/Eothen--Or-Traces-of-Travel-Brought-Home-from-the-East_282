@@ -1,0 +1,27 @@
+_repo: Eothen--Or-Traces-of-Travel-Brought-Home-from-the-East_282
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kinglake, Alexander William
+    alias: Kinglake, A. W. (Alexander William)
+    birthdate: 1809
+    deathdate: 1891
+    gutenberg_agent_id: '163'
+    url: http://www.gutenberg.org/2009/agents/163
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_William_Kinglake
+description: ''
+gutenberg_issued: '1995-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '282'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Middle East -- Description and travel'
+- !lcc 'DS'
+- !lcsh 'Kinglake, Alexander William, 1809-1891 -- Travel -- Middle East'
+- GITenberg
+title: Eothen; Or, Traces of Travel Brought Home from the East
+url: http://www.gutenberg.org/ebooks/282
